@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ref_tamanho" id="ref_tamanho">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>ref_tamanho</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <MultiGeometry><LineString><coordinates>-47.0440878908489,-22.9546069128362 -47.0392137021475,-22.9546696697182 -47.0391460249807,-22.950155793199 -47.0440200521923,-22.9500930500363 -47.0440878908489,-22.9546069128362</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
